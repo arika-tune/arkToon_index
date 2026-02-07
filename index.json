@@ -1,7 +1,7 @@
 {
   "name": "Ampion Repository",
   "author": "Ampion",
-  "url": "https://arika-tune.github.io/vpm-repos/index.json",
+  "url": "https://arika-tune.github.io/arkToon_index/index.json",
   "packages": {
     "com.ampion.arktoon": {
       "versions": {
@@ -23,4 +23,5 @@
       }
     }
   }
+
 }
