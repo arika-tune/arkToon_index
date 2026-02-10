@@ -30,7 +30,7 @@
             "name": "Ampion",
             "url": "https://arika-tune.github.io/arkToon/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/master/arkToon_v0.1.0.zip",
+          "url": "https://github.com/arika-tune/arkToon/releases/download/outdated/arkToon_v0.1.0.zip",
           "legacyFolders": {
             "Assets\\arktoon Shaders": "bb9849a308ed5b04784d10af2202f1c4"
           }
@@ -39,3 +39,4 @@
     }
   }
 }
+
