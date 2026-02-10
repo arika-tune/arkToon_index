@@ -5,6 +5,21 @@
   "packages": {
     "com.ampion.arktoon": {
       "versions": {
+        "0.1.1": {
+          "name": "com.ampion.arktoon",
+          "displayName": "arkToon Shaders",
+          "version": "0.1.1",
+          "unity": "2022.3",
+          "description": "arkToon Shaders package.",
+          "author": {
+            "name": "Ampion",
+            "url": "https://arika-tune.github.io/arkToon/"
+          },
+          "url": "https://github.com/arika-tune/arkToon/releases/download/master/arkToon_v0.1.1.zip",
+          "legacyFolders": {
+            "Assets\\arktoon Shaders": "bb9849a308ed5b04784d10af2202f1c4"
+          }
+        },
         "0.1.0": {
           "name": "com.ampion.arktoon",
           "displayName": "arkToon Shaders",
@@ -23,6 +38,4 @@
       }
     }
   }
-
 }
-
