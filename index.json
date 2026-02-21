@@ -5,6 +5,18 @@
   "packages": {
     "com.ampion.arktoon": {
       "versions": {
+        "0.2.1": {
+          "name": "com.ampion.arktoon",
+          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "version": "0.2.1",
+          "unity": "2022.3",
+          "description": "arkToon Shaders package.",
+          "author": {
+            "name": "Ampion",
+            "url": "https://arika-tune.github.io/arkToon/"
+          },
+          "url": "https://github.com/arika-tune/arkToon/releases/download/0.2.1/arkToon_v0.2.1.zip"
+        },
         "0.2.0": {
           "name": "com.ampion.arktoon",
           "displayName": "arkToon Shaders - Stylized Character Rendering System",
