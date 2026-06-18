@@ -1,5 +1,5 @@
 {
-  "name": "arkToon Repository by Ampion",
+  "name": "arkShader Repository by Ampion",
   "author": "Ampion",
   "url": "https://arika-tune.github.io/arkToon_index/index.json",
   "packages": {
@@ -7,126 +7,126 @@
       "versions": {
         "0.3.0": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.3.0",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/0.3.0/arkToon_v0.3.0.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/0.3.0/arkShader_v0.3.0.zip"
         },
         "0.2.2": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.2.2",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/0.2.2/arkToon_v0.2.2.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/0.2.2/arkShader_v0.2.2.zip"
         },
         "0.2.1": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.2.1",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/0.2.1/arkToon_v0.2.1.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/0.2.1/arkShader_v0.2.1.zip"
         },
         "0.2.0": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.2.0",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/0.2.0/arkToon_v0.2.0.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/0.2.0/arkShader_v0.2.0.zip"
         },
         "0.1.5": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.1.5",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/Release0.1.5/arkToon_v0.1.5.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/Release0.1.5/arkShader_v0.1.5.zip"
         },
         "0.1.4": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.1.4",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/Release/arkToon_v0.1.4.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/Release/arkShader_v0.1.4.zip"
         },
         "0.1.3": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.1.3",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/outdated/arkToon_v0.1.3.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/outdated/arkShader_v0.1.3.zip"
         },
         "0.1.2": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders - Stylized Character Rendering System",
+          "displayName": "arkShader Shaders - Stylized Character Rendering System",
           "version": "0.1.2",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/outdated/arkToon_v0.1.2.zip"
+          "url": "https://github.com/arika-tune/arkShader/releases/download/outdated/arkShader_v0.1.2.zip"
         },
         "0.1.1": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders",
+          "displayName": "arkShader Shaders",
           "version": "0.1.1",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/outdated/arkToon_v0.1.1.zip",
+          "url": "https://github.com/arika-tune/arkShader/releases/download/outdated/arkShader_v0.1.1.zip",
           "legacyFolders": {
             "Assets\\arktoon Shaders": "bb9849a308ed5b04784d10af2202f1c4"
           }
         },
         "0.1.0": {
           "name": "com.ampion.arktoon",
-          "displayName": "arkToon Shaders",
+          "displayName": "arkShader Shaders",
           "version": "0.1.0",
           "unity": "2022.3",
-          "description": "arkToon Shaders package.",
+          "description": "arkShader Shaders package.",
           "author": {
             "name": "Ampion",
-            "url": "https://arika-tune.github.io/arkToon/"
+            "url": "https://arika-tune.github.io/arkShader/"
           },
-          "url": "https://github.com/arika-tune/arkToon/releases/download/outdated/arkToon_v0.1.0.zip",
+          "url": "https://github.com/arika-tune/arkShader/releases/download/outdated/arkShader_v0.1.0.zip",
           "legacyFolders": {
             "Assets\\arktoon Shaders": "bb9849a308ed5b04784d10af2202f1c4"
           }
