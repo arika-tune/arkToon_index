@@ -5,6 +5,29 @@
   "packages": {
     "com.ampion.arktoon": {
       "versions": {
+        "0.4.1": {
+          "name": "com.ampion.arktoon",
+          "displayName": "ark Shader",
+          "version": "0.4.1",
+          "unity": "2022.3",
+          "description": "ark Shader's package.",
+          "author": {
+            "name": "Ampion",
+            "url": "https://arika-tune.github.io/arkToon/"
+          },
+          "url": "https://github.com/arika-tune/arkToon/releases/download/0.4.1/arkToon_v0.4.1.zip",
+          "vpmDependencies": {
+            "at.pimaker.ltcgi": "^1.7.3",
+            "red.sim.lightvolumes": "^2.1.3"
+          },
+          "legacyFolders": {
+            "Assets\\arktoon": "bb9849a308ed5b04784d10af2202f1c4",
+            "Assets\\arktoon\\Editor": "cbe22ddb928ecde4683ac35f8a46f12e",
+            "Assets\\arktoon\\Editor\\ArkToonGUI.cs": "c3987161567faad4c8bf5c7e57a4c568",
+            "Assets\\arktoon\\Shader": "e08b290b1cf894d48919603b59d32c4f",
+            "Assets\\arktoon\\Shader\\arkToon.shader": "a8b8a90fced2ccd4e9e0f9714bf2492a"
+          }
+        },
         "0.4.0": {
           "name": "com.ampion.arktoon",
           "displayName": "ark Shader",
